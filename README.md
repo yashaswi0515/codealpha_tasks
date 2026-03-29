@@ -43,4 +43,4 @@ This project was developed as part of the CodeAlpha Python Programming Internshi
 
 ## Author
 
-[YASHASWI]
+YASHASWI
