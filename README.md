@@ -1,53 +1,46 @@
-# CodeAlpha Python Internship Project
+# CodeAlpha Python Internship Projects
 
-## Basic AI Chatbot
+This repository contains projects developed as part of the CodeAlpha Python Programming Internship. These projects demonstrate core Python concepts along with practical implementations such as games, automation scripts, and an AI chatbot using Natural Language Processing (NLP).
 
-This project is a simple AI-based chatbot developed using Python and Natural Language Processing techniques.  
-The chatbot uses a dataset of predefined questions and answers and responds based on similarity matching.
+## Projects Included
 
-## Features
+1. Hangman Game  
+2. Stock Portfolio Tracker  
+3. Task Automation Script  
+4. AI Chatbot (NLP-based)  
 
-- Built using Python
-- Uses Natural Language Processing (NLTK)
-- Training dataset with multiple question-answer pairs
-- Interactive command-line conversation
-- Handles different user inputs
+## Project Details
+
+### 1. Hangman Game
+A text-based word guessing game where the player guesses a hidden word with limited attempts.
+
+### 2. Stock Portfolio Tracker
+A program that calculates total investment value based on user input and predefined stock prices.
+
+### 3. Task Automation Script
+A script that automates tasks like extracting email addresses from a file.
+
+### 4. AI Chatbot
+A chatbot that uses a dataset and NLTK to respond to user queries.
 
 ## Technologies Used
 
 - Python
-- NLTK (Natural Language Toolkit)
+- NLTK
 
-## How to Run the Project
-
-1. Install Python
-2. Install NLTK
+## How to Run
 
 pip install nltk
 
-3. Run the chatbot
-
 python chatbot.py
-
-## Example Conversation
-
-You: hello  
-Bot: Hello! How can I assist you today?
-
-You: what is python  
-Bot: Python is a high-level programming language used for many applications.
-
-You: bye  
-Bot: Goodbye! Have a great day!
-
-## Project Structure
-
-CodeAlpha_Internship  
-│  
-├── chatbot.py  
-├── training_data.txt  
-└── README.md  
+python hangman.py
+python stock_tracker.py
+python automation.py
 
 ## Internship
 
-This project was developed as part of the **CodeAlpha Python Programming Internship**.
+This project was developed as part of the CodeAlpha Python Programming Internship.
+
+## Author
+
+[YASHASWI]
