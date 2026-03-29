@@ -1,0 +1,67 @@
+hello|Hi there! How can I help you today?
+hi|Hello! What can I do for you?
+how are you|I am just a bot, but I'm doing great!
+what is your name|I am CodeAlpha Chatbot.
+who created you|I was created as part of a Python internship project.
+what can you do|I can answer simple questions and chat with you.
+what is python|Python is a popular programming language used for many applications.
+what is ai|Artificial Intelligence is the simulation of human intelligence in machines.
+what is machine learning|Machine learning is a field of AI where systems learn from data.
+bye|Goodbye! Have a great day.
+thank you|You're welcome!
+help|You can ask me questions about technology or greet me.
+hello|Hello! How can I assist you today?
+hi|Hi there! What can I do for you?
+hey|Hey! How can I help?
+good morning|Good morning! How can I assist you?
+good afternoon|Good afternoon! What can I do for you?
+good evening|Good evening! How may I help you?
+
+how are you|I'm just a chatbot, but I'm doing great!
+how is it going|Everything is running smoothly!
+are you fine|Yes, I'm functioning perfectly.
+
+what is your name|My name is CodeAlpha Chatbot.
+who are you|I am an AI chatbot built using Python.
+who created you|I was created as part of a Python internship project.
+
+what is python|Python is a high-level programming language used for many applications.
+what is programming|Programming is writing instructions that a computer can execute.
+what is coding|Coding is the process of creating software using programming languages.
+
+what is ai|Artificial Intelligence is the simulation of human intelligence by machines.
+what is machine learning|Machine learning is a field of AI where computers learn from data.
+what is deep learning|Deep learning is a subset of machine learning using neural networks.
+
+what is data science|Data science involves analyzing data to extract useful insights.
+what is big data|Big data refers to extremely large datasets analyzed computationally.
+
+what is a chatbot|A chatbot is a computer program that simulates conversation with humans.
+what is software|Software is a collection of programs that tell a computer what to do.
+what is hardware|Hardware refers to the physical components of a computer.
+
+what is an algorithm|An algorithm is a step-by-step procedure to solve a problem.
+what is a database|A database is an organized collection of data.
+
+what is the internet|The internet is a global network connecting millions of computers.
+what is a website|A website is a collection of web pages accessible through the internet.
+what is a browser|A browser is software used to access websites.
+
+what is html|HTML is the standard language for creating web pages.
+what is css|CSS is used to style and design web pages.
+what is javascript|JavaScript is a programming language used to make web pages interactive.
+
+what is github|GitHub is a platform for hosting and sharing code.
+what is open source|Open source software allows anyone to view and modify the code.
+
+tell me a joke|Why did the programmer quit his job? Because he didn't get arrays.
+tell me another joke|Why do programmers prefer dark mode? Because light attracts bugs.
+
+thank you|You're welcome!
+thanks|Glad I could help!
+
+can you help me|Of course! What do you need help with?
+what can you do|I can answer questions about technology and programming.
+
+bye|Goodbye! Have a great day!
+goodbye|See you later!
